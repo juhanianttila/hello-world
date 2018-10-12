@@ -1,4 +1,4 @@
 # hello-world
 Ensimmäiset omat kokeilut
 
-Tässä sitä vain testillaan.
+Tässä sitä vain testaillaan.
